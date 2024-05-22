@@ -17,6 +17,8 @@ public class Basics {
 
 		// open url
 		driver.get("https://www.amazon.in/");
+		
+		System.out.println("url launched");
 
 	}
 
